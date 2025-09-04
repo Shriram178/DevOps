@@ -70,3 +70,62 @@
 - Real-world examples: Amazon’s easy return policy, travel insurance → all about preserving reversibility.
 
 ---
+6. Deliver Fast
+
+- In Toyota terms: shorter lead times = more responsive.
+
+- In software: releasing quickly reduces risk and keeps feedback loops tight.
+
+- Rule of thumb:
+
+  - If something hurts (like deployments), do it more often → it forces you to improve.
+
+  - Do risky things earlier → test and learn when the cost of failure is lowest.
+---
+7. Respect People
+
+- People are not replaceable cogs—they are the source of creativity and problem solving.
+
+- Tools should make humans’ work easier and smarter, not harder.
+
+- In DevOps, respecting people often means:
+
+- Giving teams autonomy.
+
+- Sharing knowledge openly.
+
+- Removing frustrations and bottlenecks.
+---
+8. Optimize the Whole
+
+- Don’t just make your part better—look at the whole flow from idea → code → deploy → customer.
+
+- Example: speeding up coding doesn’t help if deployment is still slow and painful.
+
+- DevOps is about systems thinking: how all parts interact, not isolated silos.
+---
+The 7 Wastes of Software Development (muda)
+
+- Partially done work → code written but not deployed/tested.
+
+- Extra features → “just in case” work nobody uses.
+
+- Relearning → knowledge lost or repeated effort.
+
+- Handoffs → work slowed down by too many intermediaries.
+
+- Delays → waiting for approvals, missing info, blocked tasks.
+
+- Task switching → context switching lowers efficiency.
+
+- Defects → bugs that cause rework and ripple waste.
+---
+Putting It All Together
+
+   - Lean in DevOps = reduce waste, speed up safely, empower people, and think end-to-end.
+
+  - Most pain in real systems comes from defects—so start by reducing error rates.
+
+- Attack the riskiest, scariest parts first (instead of pushing them off).
+
+- Small, frequent, reliable delivery beats “big bang” releases every time.
